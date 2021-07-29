@@ -23,5 +23,5 @@ $email_body = "User Name: $name.\n".
 
 
 
-header("Location: contact.html");
+header("Location: course.html");
 ?>
