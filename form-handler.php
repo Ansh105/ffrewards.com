@@ -24,4 +24,6 @@ $email_body = "User Name: $name.\n".
 
 
 header("Location: course.html");
+title: Games
+description: Games
 ?>
